@@ -1,4 +1,4 @@
 #!/bin/bash
-# This script creates a file and adds text to it
-touch \*\\'"Best School"\'\\*$\?\*\*\*\*\*
-echo "Best School"> \*\\'"Best School"\'\\*$\?\*\*\*\*\*
+# This is a script that creates a file and adds some content to it
+touch \\\*\\\\\'\"Best\ School\"\\\'\\\\\*\$\\\?\\\*\\\*\\\*\\\*\\\*\:\)
+echo "Best School"
