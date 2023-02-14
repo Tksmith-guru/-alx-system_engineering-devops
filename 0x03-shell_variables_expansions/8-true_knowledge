@@ -1,0 +1,2 @@
+#!/bin/bash
+TRUEKNOWLEDGE="128+value" \n | cat -e
